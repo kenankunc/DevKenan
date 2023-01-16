@@ -1,0 +1,23 @@
+Merge Sort Projesi
+
+1.soru cevap;
+
+16-21-11-8-12-22
+
+16-21-11--------8-12-22
+
+16 21-11        8 12-22
+16  21  11    8  12  22
+
+11 16 21     8 12 22 
+
+  [8 11 12 16 21 22 ]
+  
+  
+  2. soru cevap;
+
+big o notation,
+N terimli bir dizimiz olduğundan 
+2^x=n;
+logn=x olur bunun gösterimi;
+o(nlogn)
