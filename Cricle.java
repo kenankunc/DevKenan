@@ -11,8 +11,10 @@ public class Cricle {
         System.out.println("Please input radius");
         r = scanner.nextDouble();
         double area = pi *r *r;
+        double perimeter = 2*pi*r;
 
         System.out.println("Area of Circle = "+ area);
+        System.out.println("Perimeter of Circle = "+ perimeter);
 
     }
 
